@@ -1,0 +1,693 @@
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (1 ms)
+Loading the tools information
+Finished loading the tools information (4 ms)
+Using the executable path for the tools directory.
+Loading the application in directory '/Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template'
+creating application information from 'get_app_info' data
+finished creating application information from 'get_app_info' data (11 ms)
+Finished loading the application data (316 ms total, 301 make)
+Loading asset repository references
+Finished loading the asset repository references (400 ms)
+Loading the manifest data
+Loading super manfiest files from all sources
+Processing manifest loc file '/Users/nipon/.modustoolbox/manifest.loc'
+Found user super-manifest(s):
+  'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+  'https://github.com/iotexpert/mtb2-iotexpert-manifests/raw/master/iotexpert-super-manifest.xml'
+Downloading super manifest file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Downloading super manifest file 'https://github.com/iotexpert/mtb2-iotexpert-manifests/raw/master/iotexpert-super-manifest.xml'
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Starting to parse super manifest with URL 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Finished parsing super manifest with URL 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Downloading manifest file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-app-manifest.xml'
+Finished download of file 'https://github.com/iotexpert/mtb2-iotexpert-manifests/raw/master/iotexpert-super-manifest.xml'
+Starting to parse super manifest with URL 'https://github.com/iotexpert/mtb2-iotexpert-manifests/raw/master/iotexpert-super-manifest.xml'
+Finished parsing super manifest with URL 'https://github.com/iotexpert/mtb2-iotexpert-manifests/raw/master/iotexpert-super-manifest.xml'
+Downloading manifest file 'https://github.com/iotexpert/mtb2-iotexpert-manifests/raw/master/iotexpert-app-manifest.xml'
+Downloading manifest file 'https://github.com/iotexpert/mtb2-iotexpert-manifests/raw/master/iotexpert-mw-manifest.xml'
+Downloading manifest file 'https://github.com/iotexpert/mtb2-iotexpert-manifests/raw/master/iotexpert-mw-dependencies.xml'
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-app-manifest.xml'
+Finished download of file 'https://github.com/iotexpert/mtb2-iotexpert-manifests/raw/master/iotexpert-app-manifest.xml'
+Finished download of file 'https://github.com/iotexpert/mtb2-iotexpert-manifests/raw/master/iotexpert-mw-manifest.xml'
+Finished download of file 'https://github.com/iotexpert/mtb2-iotexpert-manifests/raw/master/iotexpert-mw-dependencies.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished loading the manifest data (2584 ms)
+Loading the device db
+Finished loading the device db (1110 ms)
+WARNING:"wifi_helper" "main" requires "wcm" "latest-v2.X" which is not present in the manifest data.
+Starting to refresh dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Requested to remove the asset 'abstraction-rtos'.
+Requested to remove the asset 'aws-iot-device-sdk-embedded-C'.
+Requested to remove the asset 'aws-iot-device-sdk-port'.
+Requested to remove the asset 'cat1cm0p'.
+Requested to remove the asset 'clib-support'.
+Requested to remove the asset 'cmsis'.
+Requested to remove the asset 'connectivity-utilities'.
+Requested to remove the asset 'core-lib'.
+Requested to remove the asset 'core-make'.
+Requested to remove the asset 'cy-mbedtls-acceleration'.
+Requested to remove the asset 'freertos'.
+Requested to remove the asset 'lwip-freertos-integration'.
+Requested to remove the asset 'lwip-network-interface-integration'.
+Requested to remove the asset 'lwip'.
+Requested to remove the asset 'mbedtls'.
+Requested to remove the asset 'mtb-hal-cat1'.
+Requested to remove the asset 'mtb-pdl-cat1'.
+Requested to remove the asset 'recipe-make-cat1a'.
+Requested to remove the asset 'secure-sockets'.
+Requested to remove the asset 'whd-bsp-integration'.
+Requested to remove the asset 'wifi-connection-manager'.
+Requested to remove the asset 'wifi-host-driver'.
+Requested to remove the asset 'wpa3-external-supplicant'.
+Requested to add the asset 'mtb-hal-cat1'.
+Requested to add the asset 'core-make'.
+Requested to add the asset 'cat1cm0p'.
+Requested to add the asset 'recipe-make-cat1a'.
+Requested to add the asset 'core-lib'.
+Requested to add the asset 'mtb-pdl-cat1'.
+Requested to add the asset 'aws-iot-device-sdk-port'.
+Requested to add the asset 'abstraction-rtos'.
+Requested to add the asset 'clib-support'.
+Requested to add the asset 'connectivity-utilities'.
+Requested to add the asset 'mbedTLS Acceleration'.
+Requested to add the asset 'freertos'.
+Requested to add the asset 'lwip-freertos-integration'.
+Requested to add the asset 'lwip-network-interface-integration'.
+Requested to add the asset 'lwip'.
+Requested to add the asset 'mbedtls'.
+Requested to add the asset 'secure-sockets'.
+Requested to add the asset 'whd-bsp-integration'.
+Requested to add the asset 'wifi-connection-manager'.
+Requested to add the asset 'wifi-host-driver'.
+Requested to add the asset 'wpa3-external-supplicant'.
+Requested to add the asset 'cmsis'.
+Requested to add the asset 'aws-iot-device-sdk-embedded-C'.
+Found direct dependencies 'BMI160_driver, BMM150-Sensor-API, capsense, kv-store, middleware-ntshell, mqtt, retarget-io, sensor-orientation-bmx160, sensor-xensiv-dps3xx, serial-flash, wifi-core-freertos-lwip-mbedtls'.
+Found new indirect dependencies 'mtb-hal-cat1, core-make, cat1cm0p, recipe-make-cat1a, core-lib, mtb-pdl-cat1, aws-iot-device-sdk-port, abstraction-rtos, clib-support, connectivity-utilities, mbedTLS Acceleration, freertos, lwip-freertos-integration, lwip-network-interface-integration, lwip, mbedtls, secure-sockets, whd-bsp-integration, wifi-connection-manager, wifi-host-driver, wpa3-external-supplicant, cmsis, aws-iot-device-sdk-embedded-C'.
+Refreshed all dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+0 error(s), 1 warning(s)
+Successfully acquired the information.
+Requested to add the asset 'rgb-led'.
+Starting to refresh dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Requested to remove the asset 'abstraction-rtos'.
+Requested to remove the asset 'aws-iot-device-sdk-embedded-C'.
+Requested to remove the asset 'aws-iot-device-sdk-port'.
+Requested to remove the asset 'cat1cm0p'.
+Requested to remove the asset 'clib-support'.
+Requested to remove the asset 'cmsis'.
+Requested to remove the asset 'connectivity-utilities'.
+Requested to remove the asset 'core-lib'.
+Requested to remove the asset 'core-make'.
+Requested to remove the asset 'cy-mbedtls-acceleration'.
+Requested to remove the asset 'freertos'.
+Requested to remove the asset 'lwip-freertos-integration'.
+Requested to remove the asset 'lwip-network-interface-integration'.
+Requested to remove the asset 'lwip'.
+Requested to remove the asset 'mbedtls'.
+Requested to remove the asset 'mtb-hal-cat1'.
+Requested to remove the asset 'mtb-pdl-cat1'.
+Requested to remove the asset 'recipe-make-cat1a'.
+Requested to remove the asset 'secure-sockets'.
+Requested to remove the asset 'whd-bsp-integration'.
+Requested to remove the asset 'wifi-connection-manager'.
+Requested to remove the asset 'wifi-host-driver'.
+Requested to remove the asset 'wpa3-external-supplicant'.
+Requested to add the asset 'mtb-hal-cat1'.
+Requested to add the asset 'core-make'.
+Requested to add the asset 'cat1cm0p'.
+Requested to add the asset 'recipe-make-cat1a'.
+Requested to add the asset 'core-lib'.
+Requested to add the asset 'mtb-pdl-cat1'.
+Requested to add the asset 'aws-iot-device-sdk-port'.
+Requested to add the asset 'abstraction-rtos'.
+Requested to add the asset 'clib-support'.
+Requested to add the asset 'connectivity-utilities'.
+Requested to add the asset 'mbedTLS Acceleration'.
+Requested to add the asset 'freertos'.
+Requested to add the asset 'lwip-freertos-integration'.
+Requested to add the asset 'lwip-network-interface-integration'.
+Requested to add the asset 'lwip'.
+Requested to add the asset 'mbedtls'.
+Requested to add the asset 'secure-sockets'.
+Requested to add the asset 'whd-bsp-integration'.
+Requested to add the asset 'wifi-connection-manager'.
+Requested to add the asset 'wifi-host-driver'.
+Requested to add the asset 'wpa3-external-supplicant'.
+Requested to add the asset 'cmsis'.
+Requested to add the asset 'aws-iot-device-sdk-embedded-C'.
+Found direct dependencies 'BMI160_driver, BMM150-Sensor-API, capsense, kv-store, middleware-ntshell, mqtt, retarget-io, sensor-orientation-bmx160, sensor-xensiv-dps3xx, serial-flash, wifi-core-freertos-lwip-mbedtls, rgb-led'.
+Found new indirect dependencies 'mtb-hal-cat1, core-make, cat1cm0p, recipe-make-cat1a, core-lib, mtb-pdl-cat1, aws-iot-device-sdk-port, abstraction-rtos, clib-support, connectivity-utilities, mbedTLS Acceleration, freertos, lwip-freertos-integration, lwip-network-interface-integration, lwip, mbedtls, secure-sockets, whd-bsp-integration, wifi-connection-manager, wifi-host-driver, wpa3-external-supplicant, cmsis, aws-iot-device-sdk-embedded-C'.
+Refreshed all dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+
+Starting to refresh dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Requested to remove the asset 'abstraction-rtos'.
+Requested to remove the asset 'aws-iot-device-sdk-embedded-C'.
+Requested to remove the asset 'aws-iot-device-sdk-port'.
+Requested to remove the asset 'cat1cm0p'.
+Requested to remove the asset 'clib-support'.
+Requested to remove the asset 'cmsis'.
+Requested to remove the asset 'connectivity-utilities'.
+Requested to remove the asset 'core-lib'.
+Requested to remove the asset 'core-make'.
+Requested to remove the asset 'cy-mbedtls-acceleration'.
+Requested to remove the asset 'freertos'.
+Requested to remove the asset 'lwip-freertos-integration'.
+Requested to remove the asset 'lwip-network-interface-integration'.
+Requested to remove the asset 'lwip'.
+Requested to remove the asset 'mbedtls'.
+Requested to remove the asset 'mtb-hal-cat1'.
+Requested to remove the asset 'mtb-pdl-cat1'.
+Requested to remove the asset 'recipe-make-cat1a'.
+Requested to remove the asset 'secure-sockets'.
+Requested to remove the asset 'whd-bsp-integration'.
+Requested to remove the asset 'wifi-connection-manager'.
+Requested to remove the asset 'wifi-host-driver'.
+Requested to remove the asset 'wpa3-external-supplicant'.
+Requested to add the asset 'mtb-hal-cat1'.
+Requested to add the asset 'core-make'.
+Requested to add the asset 'cat1cm0p'.
+Requested to add the asset 'recipe-make-cat1a'.
+Requested to add the asset 'core-lib'.
+Requested to add the asset 'mtb-pdl-cat1'.
+Requested to add the asset 'aws-iot-device-sdk-port'.
+Requested to add the asset 'abstraction-rtos'.
+Requested to add the asset 'clib-support'.
+Requested to add the asset 'connectivity-utilities'.
+Requested to add the asset 'mbedTLS Acceleration'.
+Requested to add the asset 'freertos'.
+Requested to add the asset 'lwip-freertos-integration'.
+Requested to add the asset 'lwip-network-interface-integration'.
+Requested to add the asset 'lwip'.
+Requested to add the asset 'mbedtls'.
+Requested to add the asset 'secure-sockets'.
+Requested to add the asset 'whd-bsp-integration'.
+Requested to add the asset 'wifi-connection-manager'.
+Requested to add the asset 'wifi-host-driver'.
+Requested to add the asset 'wpa3-external-supplicant'.
+Requested to add the asset 'cmsis'.
+Requested to add the asset 'aws-iot-device-sdk-embedded-C'.
+Found direct dependencies 'BMI160_driver, BMM150-Sensor-API, capsense, kv-store, middleware-ntshell, mqtt, retarget-io, sensor-orientation-bmx160, sensor-xensiv-dps3xx, serial-flash, wifi-core-freertos-lwip-mbedtls, rgb-led'.
+Found new indirect dependencies 'mtb-hal-cat1, core-make, cat1cm0p, recipe-make-cat1a, core-lib, mtb-pdl-cat1, aws-iot-device-sdk-port, abstraction-rtos, clib-support, connectivity-utilities, mbedTLS Acceleration, freertos, lwip-freertos-integration, lwip-network-interface-integration, lwip, mbedtls, secure-sockets, whd-bsp-integration, wifi-connection-manager, wifi-host-driver, wpa3-external-supplicant, cmsis, aws-iot-device-sdk-embedded-C'.
+Refreshed all dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+
+Changelog for project "FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template":
+rgb-led version release-v1.2.1 added
+
+Click "Update" to commit the changesUpdating application "FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template" ...
+Starting to commit changes to the filesystem and project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Requested asset 'BMI160_driver'.
+Requested asset 'BMM150-Sensor-API'.
+Requested asset 'capsense'.
+Requested asset 'kv-store'.
+Requested asset 'middleware-ntshell'.
+Requested asset 'mqtt'.
+Requested asset 'retarget-io'.
+Requested asset 'sensor-orientation-bmx160'.
+Requested asset 'sensor-xensiv-dps3xx'.
+Requested asset 'serial-flash'.
+Requested asset 'wifi-core-freertos-lwip-mbedtls'.
+Requested asset 'rgb-led'.
+Requested asset 'abstraction-rtos'.
+Requested asset 'aws-iot-device-sdk-embedded-C'.
+Requested asset 'aws-iot-device-sdk-port'.
+Requested asset 'cat1cm0p'.
+Requested asset 'clib-support'.
+Requested asset 'cmsis'.
+Requested asset 'connectivity-utilities'.
+Requested asset 'core-lib'.
+Requested asset 'core-make'.
+Requested asset 'cy-mbedtls-acceleration'.
+Requested asset 'freertos'.
+Requested asset 'lwip-freertos-integration'.
+Requested asset 'lwip-network-interface-integration'.
+Requested asset 'lwip'.
+Requested asset 'mbedtls'.
+Requested asset 'mtb-hal-cat1'.
+Requested asset 'mtb-pdl-cat1'.
+Requested asset 'recipe-make-cat1a'.
+Requested asset 'secure-sockets'.
+Requested asset 'whd-bsp-integration'.
+Requested asset 'wifi-connection-manager'.
+Requested asset 'wifi-host-driver'.
+Requested asset 'wpa3-external-supplicant'.
+Writing mtb file for asset 'rgb-led' to the folder '/Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/deps'.
+Starting to fetch assets for the project directory '/Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template'.
+Starting: git -C /Users/nipon/mtw/mtb_shared/BMI160_driver/bmi160_v3.9.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/capsense/release-v3.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/kv-store/release-v1.1.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/middleware-ntshell/latest-v2.X config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/mqtt/release-v3.4.2 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/retarget-io/release-v1.3.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/kv-store/release-v1.1.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/capsense/release-v3.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/BMI160_driver/bmi160_v3.9.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/middleware-ntshell/latest-v2.X config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/serial-flash/release-v1.3.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/rgb-led/release-v1.2.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/mqtt/release-v3.4.2 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/retarget-io/release-v1.3.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/serial-flash/release-v1.3.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/abstraction-rtos/release-v1.6.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/aws-iot-device-sdk-port/release-v2.2.2 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/cat1cm0p/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/clib-support/release-v1.3.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/rgb-led/release-v1.2.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/aws-iot-device-sdk-port/release-v2.2.2 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/abstraction-rtos/release-v1.6.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/cmsis/release-v5.8.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/connectivity-utilities/release-v4.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/core-lib/release-v1.3.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/core-make/release-v3.0.2 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/cat1cm0p/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/clib-support/release-v1.3.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/cmsis/release-v5.8.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/core-lib/release-v1.3.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/connectivity-utilities/release-v4.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/freertos/release-v10.4.304 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/lwip-freertos-integration/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/lwip-network-interface-integration/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/lwip/STABLE-2_1_2_RELEASE config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/mbedtls/mbedtls-2.25.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/core-make/release-v3.0.2 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/freertos/release-v10.4.304 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/lwip-network-interface-integration/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/lwip-freertos-integration/release-v1.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/mtb-hal-cat1/release-v2.2.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/mtb-pdl-cat1/release-v3.2.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/recipe-make-cat1a/release-v2.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/secure-sockets/release-v3.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/whd-bsp-integration/release-v2.1.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/lwip/STABLE-2_1_2_RELEASE config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/mbedtls/mbedtls-2.25.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/mtb-hal-cat1/release-v2.2.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/recipe-make-cat1a/release-v2.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/mtb-pdl-cat1/release-v3.2.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/wifi-connection-manager/release-v3.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/wifi-host-driver/release-v2.5.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/wpa3-external-supplicant/release-v1.1.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/kv-store/release-v1.1.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/secure-sockets/release-v3.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/whd-bsp-integration/release-v2.1.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/wifi-connection-manager/release-v3.0.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/wpa3-external-supplicant/release-v1.1.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/nipon/mtw/mtb_shared/wifi-host-driver/release-v2.5.0 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/nipon/mtw/mtb_shared/capsense/release-v3.0.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/BMI160_driver/bmi160_v3.9.1 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/middleware-ntshell/latest-v2.X fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/mqtt/release-v3.4.2 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/retarget-io/release-v1.3.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/kv-store/release-v1.1.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/serial-flash/release-v1.3.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/capsense/release-v3.0.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/mqtt/release-v3.4.2 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/middleware-ntshell/latest-v2.X fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/rgb-led/release-v1.2.1 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/BMI160_driver/bmi160_v3.9.1 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/retarget-io/release-v1.3.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/aws-iot-device-sdk-port/release-v2.2.2 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/abstraction-rtos/release-v1.6.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/serial-flash/release-v1.3.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/cat1cm0p/release-v1.0.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/clib-support/release-v1.3.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/cmsis/release-v5.8.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/aws-iot-device-sdk-port/release-v2.2.2 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/core-lib/release-v1.3.1 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/abstraction-rtos/release-v1.6.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/connectivity-utilities/release-v4.0.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/rgb-led/release-v1.2.1 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/core-make/release-v3.0.2 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/clib-support/release-v1.3.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/freertos/release-v10.4.304 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/cat1cm0p/release-v1.0.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/lwip-network-interface-integration/release-v1.0.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/cmsis/release-v5.8.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/lwip-freertos-integration/release-v1.0.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/core-lib/release-v1.3.1 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/lwip/STABLE-2_1_2_RELEASE fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/core-make/release-v3.0.2 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/mbedtls/mbedtls-2.25.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/connectivity-utilities/release-v4.0.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/mtb-hal-cat1/release-v2.2.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/recipe-make-cat1a/release-v2.0.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/freertos/release-v10.4.304 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/mtb-pdl-cat1/release-v3.2.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/lwip-network-interface-integration/release-v1.0.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/secure-sockets/release-v3.0.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/lwip-freertos-integration/release-v1.0.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/whd-bsp-integration/release-v2.1.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/mtb-hal-cat1/release-v2.2.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/wifi-connection-manager/release-v3.0.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/mbedtls/mbedtls-2.25.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/wpa3-external-supplicant/release-v1.1.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/recipe-make-cat1a/release-v2.0.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/wifi-host-driver/release-v2.5.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/mtb-pdl-cat1/release-v3.2.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/kv-store/release-v1.1.0 checkout release-v1.1.0
+Success: git -C /Users/nipon/mtw/mtb_shared/secure-sockets/release-v3.0.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 checkout bmm150_v2.0.0
+Success: git -C /Users/nipon/mtw/mtb_shared/whd-bsp-integration/release-v2.1.0 fetch cypress --tags --force --quiet
+HEAD is now at 6d8e0a0 Upload kv-store 1.1.0.28441
+Starting: git -C /Users/nipon/mtw/mtb_shared/capsense/release-v3.0.0 checkout release-v3.0.0
+Success: git -C /Users/nipon/mtw/mtb_shared/kv-store/release-v1.1.0 checkout release-v1.1.0
+Finished processing kv-store
+Starting: git -C /Users/nipon/mtw/mtb_shared/mqtt/release-v3.4.2 checkout release-v3.4.2
+HEAD is now at a20641f Updated README.md
+Success: git -C /Users/nipon/mtw/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 checkout bmm150_v2.0.0
+Finished processing BMM150-Sensor-API
+Starting: git -C /Users/nipon/mtw/mtb_shared/middleware-ntshell/latest-v2.X checkout latest-v2.X
+HEAD is now at 01dac81 Upload capsense 3.0.0.2705
+Success: git -C /Users/nipon/mtw/mtb_shared/capsense/release-v3.0.0 checkout release-v3.0.0
+Finished processing capsense
+Starting: git -C /Users/nipon/mtw/mtb_shared/BMI160_driver/bmi160_v3.9.1 checkout bmi160_v3.9.1
+HEAD is now at 75a512a Upload mqtt 3.4.2.1319
+Success: git -C /Users/nipon/mtw/mtb_shared/mqtt/release-v3.4.2 checkout release-v3.4.2
+Finished processing mqtt
+Starting: git -C /Users/nipon/mtw/mtb_shared/retarget-io/release-v1.3.0 checkout release-v1.3.0
+HEAD is now at b5468a9 fixed usrcmd template
+Success: git -C /Users/nipon/mtw/mtb_shared/wifi-connection-manager/release-v3.0.0 fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/middleware-ntshell/latest-v2.X checkout latest-v2.X
+Finished processing middleware-ntshell
+Starting: git -C /Users/nipon/mtw/mtb_shared/serial-flash/release-v1.3.0 checkout release-v1.3.0
+Starting: git -C /Users/nipon/mtw/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 checkout release-v1.0.0
+HEAD is now at 3ac7bb6 Updated to v3.9.1. Fixed bugs in the sensor configuration. Added examples. Updated the callback interfaces.
+M	bmi160_defs.h
+Success: git -C /Users/nipon/mtw/mtb_shared/BMI160_driver/bmi160_v3.9.1 checkout bmi160_v3.9.1
+Finished processing BMI160_driver
+HEAD is now at a61cd7c Upload retarget-io 1.3.0.25183
+Success: git -C /Users/nipon/mtw/mtb_shared/retarget-io/release-v1.3.0 checkout release-v1.3.0
+Finished processing retarget-io
+Starting: git -C /Users/nipon/mtw/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 checkout release-v1.0.1
+Starting: git -C /Users/nipon/mtw/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 checkout release-v1.0.0
+HEAD is now at c7b55aa Upload serial-flash 1.3.0.27308
+Success: git -C /Users/nipon/mtw/mtb_shared/lwip/STABLE-2_1_2_RELEASE fetch cypress --tags --force --quiet
+Success: git -C /Users/nipon/mtw/mtb_shared/serial-flash/release-v1.3.0 checkout release-v1.3.0
+Finished processing serial-flash
+HEAD is now at bdf5a3c Upload sensor-xensiv-dps3xx 1.0.0.23328
+Success: git -C /Users/nipon/mtw/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 checkout release-v1.0.0
+Finished processing sensor-xensiv-dps3xx
+Starting: git -C /Users/nipon/mtw/mtb_shared/aws-iot-device-sdk-port/release-v2.2.2 checkout release-v2.2.2
+Starting: git -C /Users/nipon/mtw/mtb_shared/abstraction-rtos/release-v1.6.0 checkout release-v1.6.0
+Starting: git -C /Users/nipon/mtw/mtb_shared/rgb-led/release-v1.2.1 checkout release-v1.2.1
+HEAD is now at 0e492b3 Upload sensor-orientation-bmx160 1.0.1.25183
+Success: git -C /Users/nipon/mtw/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 checkout release-v1.0.1
+Finished processing sensor-orientation-bmx160
+HEAD is now at be86442 Upload wifi-core-freertos-lwip-mbedtls 1.0.0.67
+Success: git -C /Users/nipon/mtw/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 checkout release-v1.0.0
+Finished processing wifi-core-freertos-lwip-mbedtls
+HEAD is now at af897d0 Upload aws-iot-device-sdk-port 2.2.2.382
+Success: git -C /Users/nipon/mtw/mtb_shared/aws-iot-device-sdk-port/release-v2.2.2 checkout release-v2.2.2
+Finished processing aws-iot-device-sdk-port
+Starting: git -C /Users/nipon/mtw/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 checkout 202103.00
+Starting: git -C /Users/nipon/mtw/mtb_shared/clib-support/release-v1.3.0 checkout release-v1.3.0
+Starting: git -C /Users/nipon/mtw/mtb_shared/cat1cm0p/release-v1.0.0 checkout release-v1.0.0
+HEAD is now at 7a3c39f Upload abstraction-rtos 1.6.0.29736
+Success: git -C /Users/nipon/mtw/mtb_shared/abstraction-rtos/release-v1.6.0 checkout release-v1.6.0
+Finished processing abstraction-rtos
+HEAD is now at 8eb3fc2 Upload rgb-led 1.2.1.23328
+Success: git -C /Users/nipon/mtw/mtb_shared/rgb-led/release-v1.2.1 checkout release-v1.2.1
+Finished processing rgb-led
+Starting: git -C /Users/nipon/mtw/mtb_shared/cmsis/release-v5.8.0 checkout release-v5.8.0
+Starting: git -C /Users/nipon/mtw/mtb_shared/core-lib/release-v1.3.1 checkout release-v1.3.1
+HEAD is now at d3e0bca Upload clib-support 1.3.0.29736
+Success: git -C /Users/nipon/mtw/mtb_shared/clib-support/release-v1.3.0 checkout release-v1.3.0
+Finished processing clib-support
+HEAD is now at b3d4b82 Upload cat1cm0p 1.0.0.148
+Success: git -C /Users/nipon/mtw/mtb_shared/cat1cm0p/release-v1.0.0 checkout release-v1.0.0
+Finished processing cat1cm0p
+Starting: git -C /Users/nipon/mtw/mtb_shared/core-make/release-v3.0.2 checkout release-v3.0.2
+Starting: git -C /Users/nipon/mtw/mtb_shared/connectivity-utilities/release-v4.0.0 checkout release-v4.0.0
+HEAD is now at ce02f64 Upload cmsis 5.8.0.50
+Success: git -C /Users/nipon/mtw/mtb_shared/cmsis/release-v5.8.0 checkout release-v5.8.0
+Finished processing cmsis
+HEAD is now at 1c1cb8a Upload core-lib 1.3.1.29660
+Success: git -C /Users/nipon/mtw/mtb_shared/core-lib/release-v1.3.1 checkout release-v1.3.1
+Finished processing core-lib
+Starting: git -C /Users/nipon/mtw/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 checkout release-v1.4.1
+Starting: git -C /Users/nipon/mtw/mtb_shared/freertos/release-v10.4.304 checkout release-v10.4.304
+HEAD is now at 36592d7 Upload core-make 3.0.2.4113
+Success: git -C /Users/nipon/mtw/mtb_shared/core-make/release-v3.0.2 checkout release-v3.0.2
+Finished processing core-make
+HEAD is now at ca896aa Upload connectivity-utilities 4.0.0.1341
+Success: git -C /Users/nipon/mtw/mtb_shared/connectivity-utilities/release-v4.0.0 checkout release-v4.0.0
+Finished processing connectivity-utilities
+Starting: git -C /Users/nipon/mtw/mtb_shared/lwip-network-interface-integration/release-v1.0.0 checkout release-v1.0.0
+Starting: git -C /Users/nipon/mtw/mtb_shared/lwip-freertos-integration/release-v1.0.0 checkout release-v1.0.0
+HEAD is now at 1fe9b63 Upload cy-mbedtls-acceleration 1.4.1.930
+Success: git -C /Users/nipon/mtw/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 checkout release-v1.4.1
+Finished processing cy-mbedtls-acceleration
+HEAD is now at ec40ef0 Upload freertos 10.4.304.461
+Success: git -C /Users/nipon/mtw/mtb_shared/freertos/release-v10.4.304 checkout release-v10.4.304
+Finished processing freertos
+Starting: git -C /Users/nipon/mtw/mtb_shared/mtb-hal-cat1/release-v2.2.0 checkout release-v2.2.0
+Starting: git -C /Users/nipon/mtw/mtb_shared/mbedtls/mbedtls-2.25.0 checkout mbedtls-2.25.0
+HEAD is now at 845718e Upload lwip-network-interface-integration 1.0.0.203
+Success: git -C /Users/nipon/mtw/mtb_shared/lwip-network-interface-integration/release-v1.0.0 checkout release-v1.0.0
+Finished processing lwip-network-interface-integration
+HEAD is now at f4797e9 Upload lwip-freertos-integration 1.0.0.19
+Success: git -C /Users/nipon/mtw/mtb_shared/lwip-freertos-integration/release-v1.0.0 checkout release-v1.0.0
+Finished processing lwip-freertos-integration
+Starting: git -C /Users/nipon/mtw/mtb_shared/recipe-make-cat1a/release-v2.0.0 checkout release-v2.0.0
+Starting: git -C /Users/nipon/mtw/mtb_shared/mtb-pdl-cat1/release-v3.2.0 checkout release-v3.2.0
+HEAD is now at d672ead Upload mtb-hal-cat1 2.2.0.30598
+Success: git -C /Users/nipon/mtw/mtb_shared/mtb-hal-cat1/release-v2.2.0 checkout release-v2.2.0
+Finished processing mtb-hal-cat1
+HEAD is now at 1c54b5410 Merge pull request #786 from ARMmbed/dev/yanesca/mbedtls-2.25.0r0-pr
+Success: git -C /Users/nipon/mtw/mtb_shared/mbedtls/mbedtls-2.25.0 checkout mbedtls-2.25.0
+Finished processing mbedtls
+Starting: git -C /Users/nipon/mtw/mtb_shared/secure-sockets/release-v3.0.0 checkout release-v3.0.0
+Starting: git -C /Users/nipon/mtw/mtb_shared/whd-bsp-integration/release-v2.1.0 checkout release-v2.1.0
+HEAD is now at 28d875a Upload recipe-make-cat1a 2.0.0.4056
+Success: git -C /Users/nipon/mtw/mtb_shared/recipe-make-cat1a/release-v2.0.0 checkout release-v2.0.0
+Finished processing recipe-make-cat1a
+Starting: git -C /Users/nipon/mtw/mtb_shared/wifi-connection-manager/release-v3.0.0 checkout release-v3.0.0
+HEAD is now at 3bd35be Upload mtb-pdl-cat1 3.2.0.20064 [335]
+Success: git -C /Users/nipon/mtw/mtb_shared/mtb-pdl-cat1/release-v3.2.0 checkout release-v3.2.0
+Finished processing mtb-pdl-cat1
+HEAD is now at bff5d60 Upload secure-sockets 3.0.0.2312
+Success: git -C /Users/nipon/mtw/mtb_shared/secure-sockets/release-v3.0.0 checkout release-v3.0.0
+Finished processing secure-sockets
+Starting: git -C /Users/nipon/mtw/mtb_shared/lwip/STABLE-2_1_2_RELEASE checkout STABLE-2_1_2_RELEASE
+HEAD is now at e67d148 Upload whd-bsp-integration 2.1.0.29660
+Success: git -C /Users/nipon/mtw/mtb_shared/whd-bsp-integration/release-v2.1.0 checkout release-v2.1.0
+Finished processing whd-bsp-integration
+HEAD is now at a09628f Upload wifi-connection-manager 3.0.0.1660
+Success: git -C /Users/nipon/mtw/mtb_shared/wifi-connection-manager/release-v3.0.0 checkout release-v3.0.0
+Finished processing wifi-connection-manager
+HEAD is now at 159e31b6 Prepare 2.1.2 release
+Success: git -C /Users/nipon/mtw/mtb_shared/lwip/STABLE-2_1_2_RELEASE checkout STABLE-2_1_2_RELEASE
+Finished processing lwip
+HEAD is now at 01150a0b Update release workflows to run on Ubuntu 18.04 runners (#1575)
+Success: git -C /Users/nipon/mtw/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 checkout 202103.00
+Starting: git -C /Users/nipon/mtw/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 submodule update --init --recursive
+Success: git -C /Users/nipon/mtw/mtb_shared/wpa3-external-supplicant/release-v1.1.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/wpa3-external-supplicant/release-v1.1.0 checkout release-v1.1.0
+HEAD is now at ca71f1d Upload wpa3-external-supplicant 1.1.0.98
+Success: git -C /Users/nipon/mtw/mtb_shared/wpa3-external-supplicant/release-v1.1.0 checkout release-v1.1.0
+Finished processing wpa3-external-supplicant
+Success: git -C /Users/nipon/mtw/mtb_shared/wifi-host-driver/release-v2.5.0 fetch cypress --tags --force --quiet
+Starting: git -C /Users/nipon/mtw/mtb_shared/wifi-host-driver/release-v2.5.0 checkout release-v2.5.0
+HEAD is now at 9588d90 Upload wifi-host-driver 2.5.0.15307
+Success: git -C /Users/nipon/mtw/mtb_shared/wifi-host-driver/release-v2.5.0 checkout release-v2.5.0
+Finished processing wifi-host-driver
+Skipping submodule '../../../libraries/aws/device-defender-for-aws-iot-embedded-sdk/'
+Skipping submodule '../../../libraries/aws/device-defender-for-aws-iot-embedded-sdk/'
+Skipping submodule '../../../libraries/aws/device-defender-for-aws-iot-embedded-sdk/'
+Skipping submodule '../../../libraries/aws/device-shadow-for-aws-iot-embedded-sdk/'
+Skipping submodule '../../../libraries/aws/device-shadow-for-aws-iot-embedded-sdk/'
+Skipping submodule '../../../libraries/aws/device-shadow-for-aws-iot-embedded-sdk/'
+Skipping submodule '../../../libraries/aws/jobs-for-aws-iot-embedded-sdk/'
+Skipping submodule '../../../libraries/aws/jobs-for-aws-iot-embedded-sdk/'
+Skipping submodule '../../../libraries/aws/jobs-for-aws-iot-embedded-sdk/'
+Skipping submodule '../../../libraries/aws/ota-for-aws-iot-embedded-sdk/'
+Skipping submodule '../../../libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/coreJSON/'
+Skipping submodule '../../../libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/coreJSON/'
+Skipping submodule '../../../libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/coreJSON/'
+Skipping submodule '../../../libraries/standard/backoffAlgorithm/'
+Skipping submodule '../../../libraries/standard/coreHTTP/'
+Skipping submodule '../../../libraries/standard/coreHTTP/'
+Skipping submodule '../../../libraries/standard/coreHTTP/'
+Skipping submodule '../../../libraries/standard/coreJSON/'
+Skipping submodule '../../../libraries/standard/coreJSON/'
+Skipping submodule '../../../libraries/standard/coreJSON/'
+Skipping submodule '../../../libraries/standard/coreMQTT/'
+Skipping submodule '../../../libraries/standard/coreMQTT/'
+Skipping submodule '../../../libraries/standard/coreMQTT/'
+Skipping submodule '../../../../libraries/standard/corePKCS11/'
+Skipping submodule '../../../libraries/standard/corePKCS11/'
+Skipping submodule '../../../libraries/standard/corePKCS11/'
+Skipping submodule '../../../libraries/standard/corePKCS11/'
+Success: git -C /Users/nipon/mtw/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 submodule update --init --recursive
+Finished processing aws-iot-device-sdk-embedded-C
+Fetched all assets for the project directory '/Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template'.
+Writing the file '/Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/libs/app.mk'.
+Successfully committed changes to the project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+0 error(s), 0 warning(s)
+Successfully updated application "FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template"
+Updating Launch Configurations ...
+Calling "make eclipse" ...
+Tools Directory: /Applications/ModusToolbox/tools_3.0
+Searching installed tools in progress...
+Searching installed tools complete
+Prebuild operations complete
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+Tools Directory: /Applications/ModusToolbox/tools_3.0
+Initializing build: mtb-example-psoc6-freertos-wifi-mqtt-client Debug APP_CY8CKIT-062S2-43012 GCC_ARM
+Constructing build rules...
+Build rules construction complete
+==============================================================================
+= Generating IDE files =
+==============================================================================
+Generated /Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Attach (JLink).launch
+Generated /Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Attach (KitProg3_MiniProg4).launch
+Generated /Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Debug (JLink).launch
+Generated /Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Debug (KitProg3_MiniProg4).launch
+Generated /Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Erase (JLink).launch
+Generated /Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Erase (KitProg3_MiniProg4).launch
+Generated /Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Program (JLink).launch
+Generated /Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Program (KitProg3_MiniProg4).launch
+INFO: The /Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.project already exist and will not be regenerated
+INFO: The /Users/nipon/mtw/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.cproject already exist and will not be regenerated
+Instructions:
+1. Open Eclipse IDE for ModusToolbox
+2. Select 'Import Existing Application In-Place' from the QuickPanel
+3. Browse to the application root directory
+  
+"make eclipse" succeeded
+
+Starting to refresh dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Requested to remove the asset 'abstraction-rtos'.
+Requested to remove the asset 'aws-iot-device-sdk-embedded-C'.
+Requested to remove the asset 'aws-iot-device-sdk-port'.
+Requested to remove the asset 'cat1cm0p'.
+Requested to remove the asset 'clib-support'.
+Requested to remove the asset 'cmsis'.
+Requested to remove the asset 'connectivity-utilities'.
+Requested to remove the asset 'core-lib'.
+Requested to remove the asset 'core-make'.
+Requested to remove the asset 'cy-mbedtls-acceleration'.
+Requested to remove the asset 'freertos'.
+Requested to remove the asset 'lwip-freertos-integration'.
+Requested to remove the asset 'lwip-network-interface-integration'.
+Requested to remove the asset 'lwip'.
+Requested to remove the asset 'mbedtls'.
+Requested to remove the asset 'mtb-hal-cat1'.
+Requested to remove the asset 'mtb-pdl-cat1'.
+Requested to remove the asset 'recipe-make-cat1a'.
+Requested to remove the asset 'secure-sockets'.
+Requested to remove the asset 'whd-bsp-integration'.
+Requested to remove the asset 'wifi-connection-manager'.
+Requested to remove the asset 'wifi-host-driver'.
+Requested to remove the asset 'wpa3-external-supplicant'.
+Requested to add the asset 'mtb-hal-cat1'.
+Requested to add the asset 'core-make'.
+Requested to add the asset 'cat1cm0p'.
+Requested to add the asset 'recipe-make-cat1a'.
+Requested to add the asset 'core-lib'.
+Requested to add the asset 'mtb-pdl-cat1'.
+Requested to add the asset 'aws-iot-device-sdk-port'.
+Requested to add the asset 'abstraction-rtos'.
+Requested to add the asset 'clib-support'.
+Requested to add the asset 'connectivity-utilities'.
+Requested to add the asset 'mbedTLS Acceleration'.
+Requested to add the asset 'freertos'.
+Requested to add the asset 'lwip-freertos-integration'.
+Requested to add the asset 'lwip-network-interface-integration'.
+Requested to add the asset 'lwip'.
+Requested to add the asset 'mbedtls'.
+Requested to add the asset 'secure-sockets'.
+Requested to add the asset 'whd-bsp-integration'.
+Requested to add the asset 'wifi-connection-manager'.
+Requested to add the asset 'wifi-host-driver'.
+Requested to add the asset 'wpa3-external-supplicant'.
+Requested to add the asset 'cmsis'.
+Requested to add the asset 'aws-iot-device-sdk-embedded-C'.
+Found direct dependencies 'BMI160_driver, BMM150-Sensor-API, capsense, kv-store, middleware-ntshell, mqtt, retarget-io, rgb-led, sensor-orientation-bmx160, sensor-xensiv-dps3xx, serial-flash, wifi-core-freertos-lwip-mbedtls'.
+Found new indirect dependencies 'mtb-hal-cat1, core-make, cat1cm0p, recipe-make-cat1a, core-lib, mtb-pdl-cat1, aws-iot-device-sdk-port, abstraction-rtos, clib-support, connectivity-utilities, mbedTLS Acceleration, freertos, lwip-freertos-integration, lwip-network-interface-integration, lwip, mbedtls, secure-sockets, whd-bsp-integration, wifi-connection-manager, wifi-host-driver, wpa3-external-supplicant, cmsis, aws-iot-device-sdk-embedded-C'.
+Refreshed all dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
